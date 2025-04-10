@@ -6,6 +6,7 @@
 💻 Explorando o mundo do desenvolvimento web e mobile  
 
 
+
 ## 🚀 Tecnologias que uso
 
 ### 💻 Front-end
@@ -15,7 +16,7 @@
 
 ### 🎨 Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+![Adobe Express](https://img.shields.io/badge/Adobe%20Express-000000?style=for-the-badge&logo=adobe-express&logoColor=white)
 
 ### 🔧 Versionamento & CLI
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -30,6 +31,12 @@
 ### 👨‍💻 Linguagens
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗂️ Organização
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 
 ## 📫 Onde me encontrar
